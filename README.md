@@ -12,10 +12,17 @@ Una skill es un set de instrucciones que Claude carga cuando lo necesita: la ins
 | **Mapa de Fricción Invisible** | Convierte una semana de anotaciones en las 5 cosas que más tiempo le comen al equipo. | [`zips/mapa-friccion-invisible.zip`](zips/mapa-friccion-invisible.zip) |
 | **Constructor de SOP** | Te entrevista sobre una tarea y te devuelve el procedimiento escrito, para que otra persona la pueda hacer sin preguntarte. | [`zips/constructor-sop.zip`](zips/constructor-sop.zip) |
 | **Analista de KPIs** | Le pegás los números de la semana o del mes y te dice dónde está el problema y qué decidir. | [`zips/analista-kpis.zip`](zips/analista-kpis.zip) |
+| **Base de Datos Conectada** | Te diseña la base de clientes o leads (Airtable o planillas conectadas) para que el dato llegue solo, sin salir a buscarlo. | [`zips/base-de-datos-conectada.zip`](zips/base-de-datos-conectada.zip) |
+| **Diseñador de Alertas** | Diseña el aviso que te avisa a vos (o a tu equipo) a tiempo: qué lo dispara, a quién le llega, por dónde y con qué mensaje. | [`zips/disenador-de-alertas.zip`](zips/disenador-de-alertas.zip) |
+| **Caso de Éxito con Números** | Convierte un trabajo que hiciste en un caso de estudio honesto: antes, qué cambiaste y después, con números. | [`zips/caso-de-exito-con-numeros.zip`](zips/caso-de-exito-con-numeros.zip) |
 
 ## Prompts
 
-Próximamente en [`prompts/`](prompts/).
+Para copiar y pegar en Claude (o en la IA que uses). No hace falta instalar nada.
+
+| Prompt | Para qué sirve | Link |
+|---|---|---|
+| **Copiloto Operativo** | Le contás un problema operativo y te devuelve una regla con dueño por paso (Día · Qué pasa · Quién) y el mensaje para el founder. | [`prompts/copiloto-operativo.md`](prompts/copiloto-operativo.md) |
 
 ## Cómo instalar una skill en Claude
 

@@ -15,6 +15,7 @@ Una skill es un set de instrucciones que Claude carga cuando lo necesita: la ins
 | **Base de Datos Conectada** | Te diseña la base de clientes o leads (Airtable o planillas conectadas) para que el dato llegue solo, sin salir a buscarlo. | [`zips/base-de-datos-conectada.zip`](zips/base-de-datos-conectada.zip) |
 | **Diseñador de Alertas** | Diseña el aviso que te avisa a vos (o a tu equipo) a tiempo: qué lo dispara, a quién le llega, por dónde y con qué mensaje. | [`zips/disenador-de-alertas.zip`](zips/disenador-de-alertas.zip) |
 | **Caso de Éxito con Números** | Convierte un trabajo que hiciste en un caso de estudio honesto: antes, qué cambiaste y después, con números. | [`zips/caso-de-exito-con-numeros.zip`](zips/caso-de-exito-con-numeros.zip) |
+| **Auditoría Operativa** | Te entrevista sobre la operación y te dice qué está roto, cuánto cuesta y por dónde empezar: cuellos de botella con impacto y esfuerzo, y el orden de ataque. | [`zips/auditoria-operativa.zip`](zips/auditoria-operativa.zip) |
 
 ## Prompts
 
@@ -23,6 +24,7 @@ Para copiar y pegar en Claude (o en la IA que uses). No hace falta instalar nada
 | Prompt | Para qué sirve | Link |
 |---|---|---|
 | **Copiloto Operativo** | Le contás un problema operativo y te devuelve una regla con dueño por paso (Día · Qué pasa · Quién) y el mensaje para el founder. | [`prompts/copiloto-operativo.md`](prompts/copiloto-operativo.md) |
+| **Diagnóstico Operativo** | Te hace una entrevista corta y te devuelve el mapa del negocio (cuello de botella · impacto · esfuerzo), los 3 movimientos de esta semana y qué número llevarle al founder. | [`prompts/diagnostico-operativo.md`](prompts/diagnostico-operativo.md) |
 
 ## Cómo instalar una skill en Claude
 
